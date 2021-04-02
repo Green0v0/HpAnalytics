@@ -1,2 +1,0 @@
-# HpAnalytics
-mini project
