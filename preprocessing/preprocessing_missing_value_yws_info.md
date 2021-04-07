@@ -18,7 +18,7 @@
 > - `'>4' = 5`, `'never' = 0`
 ------------
 ### 1-3. experience type change to integer
-> - `'>20' = 20`, `'<1' = 0`
+> - `'>20' = 21`, `'<1' = 0`
 ------------
 ### 1-4. enrolled_university type change to integer
 > - 2 : Full time course
